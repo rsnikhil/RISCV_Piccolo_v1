@@ -1,6 +1,8 @@
 # `RISCV_Piccolo_v1`
 Implementation of RISC-V RV32IM. Simple in-order 3-stage pipeline. Low resources (e.g., FPGA softcore).
 
+MIT License (see LICENSE.txt)
+
 ----------------------------------------------------------------
 
 ## Introduction
@@ -83,6 +85,8 @@ _wherever-you-untarred_`/Bluespec-2016.03.beta1/lib`
 
 	Example: `$ export BLUESPECDIR=$(HOME)/Bluespec-2016.03.beta1/lib`
 
+You should be in the Bluesim directory: `$ cd Bluesim`
+
 To run an individual program, e.g., "Hello World!": `$ make do_test_hello`
 
 To run all programs (file `sample_transcript` is a transcript of this): `$ make do_tests`
@@ -100,6 +104,8 @@ If you provide the flag `-V foo.vcd` it will dump VCDs waveforms to the file `fo
 
 ----------------------------------------------------------------
 ## Running the Verilog simulator on RISV-V ELF files
+
+You should be in the Verilogsim directory: `$ cd Verilogsim`
 
 To run an individual program, e.g., "Hello World!": `$ make do_test_hello`
 
