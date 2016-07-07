@@ -1,0 +1,25 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccIYPRBp.o
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libm.a
+                0x0000000000000000                . = 0x0
+
+.text           0x0000000000000000      0x248
+ *(.text)
+ .text          0x0000000000000000      0x248 /tmp/ccIYPRBp.o
+                0x0000000000000200                _start
+
+.data           0x0000000000000248        0x0
+ *(.data)
+ .data          0x0000000000000248        0x0 /tmp/ccIYPRBp.o
+                0x0000000000000248                _end = .
+OUTPUT(CPI_test1 elf32-littleriscv)
+
+.bss            0x0000000000000248        0x0
+ .bss           0x0000000000000248        0x0 /tmp/ccIYPRBp.o

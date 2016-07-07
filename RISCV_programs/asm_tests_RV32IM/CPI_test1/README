@@ -1,0 +1,8 @@
+CPI Test 1
+
+This is an asm program for testing the best-case CPI
+(cycles/instruction) of the CPU.  It contains a loop that just
+contains NOPs (i.e., no loads/stores, no register dependencies).
+
+Provided the loop-branch incurs no branch-penalty, the CPU should
+achieve a CPI of 1.0 on this program.

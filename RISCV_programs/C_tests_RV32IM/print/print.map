@@ -1,0 +1,1136 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+                              ../lib/syscalls.o (__divdi3)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+                              ../lib/syscalls.o (__moddi3)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o) (__clz_tab)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o (atexit)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o (__libc_fini_array)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o (__libc_init_array)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+                              /tmp/ccf8x3tv.o (printf)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+                              /tmp/ccf8x3tv.o (puts)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o) (strlen)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o) (_vfprintf_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (_dtoa_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (_fflush_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (__sinit)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o) (_free_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o) (_fwalk)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (memchr)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o) (memcpy)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o) (memmove)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memset.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o) (memset)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (__fpclassifyd)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o) (__sread)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strcmp.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o) (strcmp)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o) (__wctomb)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o) (__adddf3)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o) (__clzsi2)
+/home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+                              /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o) (__make_fp)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               ../lib/syscalls.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../lib/syscalls.o
+LOAD ../lib/htif.o
+LOAD ../lib/riscv_counters.o
+LOAD ../lib/ns16550.o
+LOAD /tmp/ccf8x3tv.o
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libm.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a
+START GROUP
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libnosys.a
+END GROUP
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+START GROUP
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libgloss.a
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a
+END GROUP
+                0x0000000000010000                . = 0x10000
+                0x0000000000010000                _ftext = .
+                0x0000000000010000                PROVIDE (eprol, .)
+
+.text           0x0000000000010000     0xbb78
+ *(.text)
+ .text          0x0000000000010000       0x4c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o
+                0x0000000000010000                _start
+                0x0000000000010048                _init
+                0x0000000000010048                _fini
+ .text          0x000000000001004c       0xf4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .text          0x0000000000010140      0x5a4 ../lib/syscalls.o
+                0x0000000000010140                exit
+                0x0000000000010154                close
+                0x0000000000010178                execve
+                0x00000000000101ac                fork
+                0x00000000000101d4                fstat
+                0x0000000000010208                getpid
+                0x0000000000010228                isatty
+                0x000000000001024c                kill
+                0x000000000001027c                link
+                0x00000000000102ac                lseek
+                0x00000000000102d8                open
+                0x0000000000010304                read
+                0x00000000000103c0                sbrk
+                0x0000000000010430                stat
+                0x0000000000010464                times
+                0x0000000000010488                unlink
+                0x00000000000104b4                wait
+                0x00000000000104e0                write
+                0x000000000001054c                gettimeofday
+                0x0000000000010644                sleep
+ .text          0x00000000000106e4      0x154 ../lib/htif.o
+                0x0000000000010790                htif_putc
+                0x00000000000107d0                htif_getc
+ .text          0x0000000000010838       0x9c ../lib/riscv_counters.o
+                0x0000000000010838                read_cycle
+                0x000000000001086c                read_time
+                0x00000000000108a0                read_instret
+ .text          0x00000000000108d4      0x1a4 ../lib/ns16550.o
+                0x0000000000010984                ns16550_rxready
+                0x00000000000109b8                ns16550_rxchar
+                0x00000000000109f8                ns16550_txchar
+                0x0000000000010a44                ns16550_flush
+ .text          0x0000000000010a78      0x108 /tmp/ccf8x3tv.o
+                0x0000000000010a78                print
+                0x0000000000010b54                main
+ .text          0x0000000000010b80      0x4d0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+                0x0000000000010b80                __divdi3
+ .text          0x0000000000011050      0x490 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+                0x0000000000011050                __moddi3
+ .text          0x00000000000114e0        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .text          0x00000000000114e0       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+                0x00000000000114e0                atexit
+ .text          0x00000000000114f4       0x60 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+                0x00000000000114f4                __libc_fini_array
+ .text          0x0000000000011554       0xa0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+                0x0000000000011554                __libc_init_array
+ .text          0x00000000000115f4       0x94 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+                0x00000000000115f4                _printf_r
+                0x0000000000011638                printf
+ .text          0x0000000000011688       0xbc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+                0x0000000000011688                _puts_r
+                0x0000000000011738                puts
+ .text          0x0000000000011744       0x90 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+                0x0000000000011744                strlen
+ .text          0x00000000000117d4     0x1e00 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+                0x00000000000117d4                _vfprintf_r
+                0x0000000000013500                vfprintf
+ .text          0x00000000000135d4      0x154 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+                0x00000000000135d4                __swsetup_r
+ .text          0x0000000000013728       0xf4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+                0x0000000000013728                __register_exitproc
+ .text          0x000000000001381c     0x1700 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+                0x0000000000013a04                _dtoa_r
+ .text          0x0000000000014f1c      0x30c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+                0x0000000000014f1c                __sflush_r
+                0x00000000000151ac                _fflush_r
+                0x0000000000015208                fflush
+ .text          0x0000000000015228      0x374 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+                0x0000000000015230                _cleanup_r
+                0x00000000000153d4                __sfmoreglue
+                0x0000000000015444                __sfp
+                0x000000000001554c                _cleanup
+                0x000000000001555c                __sinit
+                0x000000000001556c                __sfp_lock_acquire
+                0x0000000000015570                __sfp_lock_release
+                0x0000000000015574                __sinit_lock_acquire
+                0x0000000000015578                __sinit_lock_release
+                0x000000000001557c                __fp_lock_all
+                0x000000000001558c                __fp_unlock_all
+ .text          0x000000000001559c      0x3dc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+                0x000000000001559c                _malloc_trim_r
+                0x000000000001569c                _free_r
+ .text          0x0000000000015978      0x498 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+                0x0000000000015978                __sfvwrite_r
+ .text          0x0000000000015e10      0x170 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+                0x0000000000015e10                _fwalk
+                0x0000000000015ec0                _fwalk_reent
+ .text          0x0000000000015f80        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .text          0x0000000000015f80       0xc8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                0x0000000000015f80                _setlocale_r
+                0x0000000000015ff8                __locale_charset
+                0x0000000000016004                __locale_mb_cur_max
+                0x000000000001600c                __locale_msgcharset
+                0x0000000000016018                __locale_cjk_lang
+                0x0000000000016020                _localeconv_r
+                0x000000000001602c                setlocale
+                0x000000000001603c                localeconv
+ .text          0x0000000000016048      0x190 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+                0x0000000000016048                __smakebuf_r
+ .text          0x00000000000161d8      0x778 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                0x00000000000161d8                _malloc_r
+ .text          0x0000000000016950       0xd4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+                0x0000000000016950                memchr
+ .text          0x0000000000016a24      0x120 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+                0x0000000000016a24                memcpy
+ .text          0x0000000000016b44      0x120 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+                0x0000000000016b44                memmove
+ .text          0x0000000000016c64       0xdc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memset.o)
+                0x0000000000016c64                memset
+ .text          0x0000000000016d40        0x8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+                0x0000000000016d40                __malloc_lock
+                0x0000000000016d44                __malloc_unlock
+ .text          0x0000000000016d48     0x1004 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+                0x0000000000016d48                _Balloc
+                0x0000000000016dec                _Bfree
+                0x0000000000016e10                __multadd
+                0x0000000000016f20                __s2b
+                0x0000000000017024                __hi0bits
+                0x00000000000170a0                __lo0bits
+                0x0000000000017150                __i2b
+                0x0000000000017184                __multiply
+                0x0000000000017374                __pow5mult
+                0x00000000000174ac                __lshift
+                0x00000000000175fc                __mcmp
+                0x000000000001765c                __mdiff
+                0x000000000001784c                __ulp
+                0x00000000000178c8                __b2d
+                0x00000000000179f8                __d2b
+                0x0000000000017b3c                __ratio
+                0x0000000000017be8                _mprec_log10
+                0x0000000000017c60                __copybits
+                0x0000000000017cc8                __any_on
+ .text          0x0000000000017d4c      0x588 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+                0x0000000000017d4c                _realloc_r
+ .text          0x00000000000182d4       0x74 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+                0x00000000000182d4                __fpclassifyd
+ .text          0x0000000000018348      0x170 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+                0x0000000000018348                __sread
+                0x00000000000183c4                __seofread
+                0x00000000000183cc                __swrite
+                0x0000000000018444                __sseek
+                0x00000000000184b0                __sclose
+ .text          0x00000000000184b8      0x114 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strcmp.o)
+                0x00000000000184b8                strcmp
+ .text          0x00000000000185cc     0x11e8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+                0x00000000000186b4                __sprint_r
+                0x00000000000186cc                _vfiprintf_r
+                0x00000000000196e0                vfiprintf
+ .text          0x00000000000197b4       0xb4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+                0x00000000000197b4                _calloc_r
+ .text          0x0000000000019868       0xfc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+                0x0000000000019868                _fclose_r
+                0x0000000000019958                fclose
+ .text          0x0000000000019964      0x204 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+                0x0000000000019964                __fputwc
+                0x0000000000019ac4                _fputwc_r
+                0x0000000000019aec                fputwc
+ .text          0x0000000000019b68      0x170 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+                0x0000000000019b68                __swbuf_r
+                0x0000000000019cc8                __swbuf
+ .text          0x0000000000019cd8      0x13c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+                0x0000000000019cd8                _wcrtomb_r
+                0x0000000000019d6c                wcrtomb
+ .text          0x0000000000019e14       0x8c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+                0x0000000000019e14                __ascii_wctomb
+                0x0000000000019e44                _wctomb_r
+ .text          0x0000000000019ea0     0x107c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+                0x000000000001a1f0                __pack_d
+                0x000000000001a434                __unpack_d
+                0x000000000001a554                __adddf3
+                0x000000000001a5a4                __subdf3
+                0x000000000001a600                __muldf3
+                0x000000000001a864                __divdf3
+                0x000000000001aa08                __fpcmp_parts_d
+                0x000000000001aaf0                __cmpdf2
+                0x000000000001ab38                __gedf2
+                0x000000000001ab98                __gtdf2
+                0x000000000001ab9c                __ledf2
+                0x000000000001abf8                __ltdf2
+                0x000000000001abfc                __nedf2
+                0x000000000001ac00                __eqdf2
+                0x000000000001ac04                __unorddf2
+                0x000000000001ac54                __floatsidf
+                0x000000000001ad14                __floatunsidf
+                0x000000000001ad9c                __fixdfsi
+                0x000000000001ae58                __negdf2
+                0x000000000001ae94                __make_dp
+                0x000000000001aec4                __truncdfsf2
+ .text          0x000000000001af1c       0x70 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+                0x000000000001af1c                __clzsi2
+ .text          0x000000000001af8c      0xbec /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+                0x000000000001b154                __pack_f
+                0x000000000001b2b0                __unpack_f
+                0x000000000001b388                __addsf3
+                0x000000000001b3d0                __subsf3
+                0x000000000001b424                __mulsf3
+                0x000000000001b5c8                __divsf3
+                0x000000000001b6f4                __fpcmp_parts_f
+                0x000000000001b7c8                __cmpsf2
+                0x000000000001b808                __gesf2
+                0x000000000001b860                __gtsf2
+                0x000000000001b864                __lesf2
+                0x000000000001b8b8                __ltsf2
+                0x000000000001b8bc                __nesf2
+                0x000000000001b8c0                __eqsf2
+                0x000000000001b8c4                __unordsf2
+                0x000000000001b90c                __floatsisf
+                0x000000000001b9b0                __floatunsisf
+                0x000000000001ba48                __fixsfsi
+                0x000000000001bad4                __negsf2
+                0x000000000001bb0c                __make_fp
+                0x000000000001bb38                __extendsfdf2
+ .text          0x000000000001bb78        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+ *(.text.*)
+ *(.gnu.linkonce.t.*)
+
+.init
+ *(.init)
+
+.fini
+ *(.fini)
+
+.rodata         0x000000000001bb78      0x610
+ *(.rdata)
+ *(.rodata)
+ .rodata        0x000000000001bb78       0x49 /tmp/ccf8x3tv.o
+ *fill*         0x000000000001bbc1        0x3 
+ .rodata        0x000000000001bbc4      0x100 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+                0x000000000001bbc4                __clz_tab
+ .rodata        0x000000000001bcc4      0x184 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .rodata        0x000000000001be48      0x128 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+                0x000000000001be58                __mprec_tens
+                0x000000000001bf20                __mprec_tinytens
+                0x000000000001bf48                __mprec_bigtens
+ .rodata        0x000000000001bf70      0x184 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ *fill*         0x000000000001c0f4        0x4 
+ .rodata        0x000000000001c0f8       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+                0x000000000001c0f8                __thenan_df
+ .rodata        0x000000000001c110       0x10 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+                0x000000000001c110                __thenan_sf
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000000001c120        0x2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ *fill*         0x000000000001c122        0x2 
+ .rodata.str1.4
+                0x000000000001c124       0x42 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000000001c166        0x2 
+ .rodata.str1.4
+                0x000000000001c168       0x10 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+                                         0x12 (size before relaxing)
+ .rodata.str1.4
+                0x000000000001c178        0x2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ *fill*         0x000000000001c17a        0x2 
+ .rodata.str1.4
+                0x000000000001c17c        0xc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                                         0x12 (size before relaxing)
+ .rodata.str1.4
+                0x000000000001c188       0x2f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ *(.gnu.linkonce.r.*)
+                0x000000000001c1b7                PROVIDE (etext, .)
+                0x000000000001c1b7                _etext = .
+
+.preinit_array  0x000000000001c188        0x0
+                0x000000000001c188                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x000000000001c188                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x000000000001c188        0x8
+                0x000000000001c188                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000000000001c188        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .init_array    0x000000000001c18c        0x4 ../lib/ns16550.o
+                0x000000000001c190                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000000000001c190        0x4
+                0x000000000001c190                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000000001c190        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+                0x000000000001c194                PROVIDE (__fini_array_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x000000000001c194     0x13dc
+ *(.eh_frame)
+ .eh_frame      0x000000000001c194        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .eh_frame      0x000000000001c194      0x260 ../lib/syscalls.o
+ .eh_frame      0x000000000001c3f4       0x78 ../lib/htif.o
+                                         0x8c (size before relaxing)
+ .eh_frame      0x000000000001c46c       0x54 ../lib/riscv_counters.o
+                                         0x68 (size before relaxing)
+ .eh_frame      0x000000000001c4c0       0x8c ../lib/ns16550.o
+                                         0xa0 (size before relaxing)
+ .eh_frame      0x000000000001c54c       0x40 /tmp/ccf8x3tv.o
+                                         0x54 (size before relaxing)
+ .eh_frame      0x000000000001c58c       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001c5a0       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001c5b4       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001c5c8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+                                         0x34 (size before relaxing)
+ .eh_frame      0x000000000001c5e8       0x24 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000001c60c       0x30 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+                                         0x44 (size before relaxing)
+ .eh_frame      0x000000000001c63c       0x34 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+                                         0x48 (size before relaxing)
+ .eh_frame      0x000000000001c670       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001c684       0x78 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+                                         0x8c (size before relaxing)
+ .eh_frame      0x000000000001c6fc       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+                                         0x34 (size before relaxing)
+ .eh_frame      0x000000000001c71c       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+                                         0x34 (size before relaxing)
+ .eh_frame      0x000000000001c73c       0x6c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x000000000001c7a8       0x54 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x000000000001c7fc      0x158 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+                                        0x16c (size before relaxing)
+ .eh_frame      0x000000000001c954       0x5c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+                                         0x70 (size before relaxing)
+ .eh_frame      0x000000000001c9b0       0x74 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+                                         0x88 (size before relaxing)
+ .eh_frame      0x000000000001ca24       0x64 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000001ca88       0xac /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x000000000001cb34       0x28 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+                                         0x3c (size before relaxing)
+ .eh_frame      0x000000000001cb5c       0x38 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                                         0x4c (size before relaxing)
+ .eh_frame      0x000000000001cb94       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001cba8       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001cbbc       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001cbd0       0x28 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+                                         0x3c (size before relaxing)
+ .eh_frame      0x000000000001cbf8      0x264 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+                                        0x278 (size before relaxing)
+ .eh_frame      0x000000000001ce5c       0x38 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+                                         0x4c (size before relaxing)
+ .eh_frame      0x000000000001ce94       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001cea8       0x84 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000001cf2c       0xbc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x000000000001cfe8       0x1c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+                                         0x30 (size before relaxing)
+ .eh_frame      0x000000000001d004       0x40 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+                                         0x54 (size before relaxing)
+ .eh_frame      0x000000000001d044       0x64 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000001d0a8       0x38 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+                                         0x4c (size before relaxing)
+ .eh_frame      0x000000000001d0e0       0x4c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x000000000001d12c       0x38 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+                                         0x4c (size before relaxing)
+ .eh_frame      0x000000000001d164      0x1f8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+                                        0x20c (size before relaxing)
+ .eh_frame      0x000000000001d35c       0x14 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+                                         0x28 (size before relaxing)
+ .eh_frame      0x000000000001d370      0x1fc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+                                        0x210 (size before relaxing)
+ .eh_frame      0x000000000001d56c        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.jcr            0x000000000001d570        0x4
+ *(.jcr)
+ .jcr           0x000000000001d570        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .jcr           0x000000000001d570        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+                0x000000000001d580                . = ALIGN (0x10)
+                0x000000000001d580                _fdata = .
+
+.data           0x000000000001d580      0x8c0
+ *(.data)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .data          0x000000000001d580        0x0 ../lib/startup.o
+ .data          0x000000000001d580        0x0 ../lib/syscalls.o
+ .data          0x000000000001d580        0x0 ../lib/htif.o
+ .data          0x000000000001d580        0x0 ../lib/riscv_counters.o
+ .data          0x000000000001d580        0x0 ../lib/ns16550.o
+ .data          0x000000000001d580        0x0 /tmp/ccf8x3tv.o
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .data          0x000000000001d580        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .data          0x000000000001d580      0x440 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .data          0x000000000001d9c0       0x78 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .data          0x000000000001da38        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .data          0x000000000001da38      0x408 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                0x000000000001da38                __malloc_av_
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memset.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strcmp.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+ .data          0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+                0x000000000001de40                PROVIDE (edata, .)
+                0x000000000001de40                _edata = .
+
+.tm_clone_table
+                0x000000000001de40        0x0
+ .tm_clone_table
+                0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .tm_clone_table
+                0x000000000001de40        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+                0x000000000001de40                . = ALIGN (0x10)
+                0x000000000001e640                _gp = (. + 0x800)
+
+.sdata          0x000000000001de40       0x7c
+ *(.sdata)
+ .sdata         0x000000000001de40        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+                0x000000000001de40                __dso_handle
+ .sdata         0x000000000001de44        0x4 ../lib/syscalls.o
+                0x000000000001de44                environ
+ .sdata         0x000000000001de48        0x4 ../lib/ns16550.o
+ .sdata         0x000000000001de4c        0x8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+                0x000000000001de4c                _global_impure_ptr
+                0x000000000001de50                _impure_ptr
+ .sdata         0x000000000001de54        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                0x000000000001de54                __mb_cur_max
+ .sdata         0x000000000001de58        0x8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                0x000000000001de58                __malloc_sbrk_base
+                0x000000000001de5c                __malloc_trim_threshold
+ .sdata         0x000000000001de60        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+                0x000000000001de60                __wctomb
+ *(.sdata.*)
+ *(.srodata.*)
+ *fill*         0x000000000001de64        0x4 
+ .srodata.cst8  0x000000000001de68       0x48 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .srodata.cst8  0x000000000001deb0       0x10 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .srodata.cst8  0x000000000001deb0        0x8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .srodata.cst4  0x000000000001deb8        0x4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+ *(.gnu.linkonce.s.*)
+                0x000000000001dec0                . = ALIGN (0x8)
+                0x000000000001dec0                _fbss = .
+
+.sbss           0x000000000001dec0       0x1c
+ *(.sbss)
+ .sbss          0x000000000001dec0        0x4 ../lib/syscalls.o
+                0x000000000001dec0                __env
+ .sbss          0x000000000001dec4        0xc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                0x000000000001dec4                _PathLocale
+                0x000000000001dec8                __mlocale_changed
+                0x000000000001decc                __nlocale_changed
+ .sbss          0x000000000001ded0        0xc /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                0x000000000001ded0                __malloc_max_total_mem
+                0x000000000001ded4                __malloc_max_sbrked_mem
+                0x000000000001ded8                __malloc_top_pad
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+                0x000000000001dedc                . = .
+                0x000000000001dedc                _bss_start = .
+
+.bss            0x000000000001dedc       0x4c
+ *(.bss)
+ .bss           0x000000000001dedc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o
+ .bss           0x000000000001dedc       0x1c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+ .bss           0x000000000001def8        0x0 ../lib/startup.o
+ .bss           0x000000000001def8        0x4 ../lib/syscalls.o
+ .bss           0x000000000001defc        0x0 ../lib/htif.o
+ .bss           0x000000000001defc        0x0 ../lib/riscv_counters.o
+ .bss           0x000000000001defc        0x0 ../lib/ns16550.o
+ .bss           0x000000000001defc        0x0 /tmp/ccf8x3tv.o
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .bss           0x000000000001defc        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .bss           0x000000000001defc       0x28 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                0x000000000001defc                __malloc_current_mallinfo
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memset.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strcmp.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+ .bss           0x000000000001df24        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x000000000001df24        0x4 ../lib/syscalls.o
+                0x000000000001df24                errno
+                0x000000000001df28                PROVIDE (end, .)
+                0x000000000001df28                _end = ALIGN (0x8)
+OUTPUT(print elf32-littleriscv)
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o
+LOAD /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+
+.startup        0x0000000000000000      0x22c
+ startup.o(.text)
+ .text          0x0000000000000000      0x22c ../lib/startup.o
+                0x0000000000000200                _reset
+
+.rela.dyn       0x000000000000022c        0x0
+ .rela.text     0x000000000000022c        0x0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/crt0.o
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtbegin.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 ../lib/syscalls.o
+ .comment       0x0000000000000011       0x12 ../lib/htif.o
+ .comment       0x0000000000000011       0x12 ../lib/riscv_counters.o
+ .comment       0x0000000000000011       0x12 ../lib/ns16550.o
+ .comment       0x0000000000000011       0x12 /tmp/ccf8x3tv.o
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+ .comment       0x0000000000000011       0x12 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/crtend.o
+
+.debug_info     0x0000000000000000    0x1864b
+ .debug_info    0x0000000000000000      0x760 ../lib/syscalls.o
+ .debug_info    0x0000000000000760      0x14c ../lib/htif.o
+ .debug_info    0x00000000000008ac      0x10b ../lib/riscv_counters.o
+ .debug_info    0x00000000000009b7      0x3ba ../lib/ns16550.o
+ .debug_info    0x0000000000000d71       0xe6 /tmp/ccf8x3tv.o
+ .debug_info    0x0000000000000e57      0x748 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_info    0x000000000000159f      0x773 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_info    0x0000000000001d12       0xb2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .debug_info    0x0000000000001dc4       0xfa /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .debug_info    0x0000000000001ebe       0xf6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .debug_info    0x0000000000001fb4      0x10c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .debug_info    0x00000000000020c0      0x985 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .debug_info    0x0000000000002a45      0xa00 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .debug_info    0x0000000000003445      0x183 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000035c8     0x1663 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_info    0x0000000000004c2b      0x931 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000555c      0x935 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000005e91     0x1258 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .debug_info    0x00000000000070e9      0xa8c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_info    0x0000000000007b75      0xd2d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_info    0x00000000000088a2      0xbe1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .debug_info    0x0000000000009483      0xbb7 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x000000000000a03a      0x9ac /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .debug_info    0x000000000000a9e6      0x8a2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .debug_info    0x000000000000b288      0xc23 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_info    0x000000000000beab      0xac8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .debug_info    0x000000000000c973      0xd5b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_info    0x000000000000d6ce      0x12e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .debug_info    0x000000000000d7fc      0x24b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_info    0x000000000000da47      0x134 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .debug_info    0x000000000000db7b      0x8af /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .debug_info    0x000000000000e42a     0x16b6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_info    0x000000000000fae0      0xc96 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_info    0x0000000000010776      0x13a /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .debug_info    0x00000000000108b0      0xb09 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .debug_info    0x00000000000113b9     0x14e1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_info    0x000000000001289a      0x9cb /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_info    0x0000000000013265      0xa1e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_info    0x0000000000013c83      0xad0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_info    0x0000000000014753      0x9ba /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_info    0x000000000001510d      0xa7a /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x0000000000015b87      0x9b2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0000000000016539     0x1063 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_info    0x000000000001759c      0x128 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_info    0x00000000000176c4      0xf87 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+
+.debug_abbrev   0x0000000000000000     0x53aa
+ .debug_abbrev  0x0000000000000000      0x170 ../lib/syscalls.o
+ .debug_abbrev  0x0000000000000170       0xd5 ../lib/htif.o
+ .debug_abbrev  0x0000000000000245       0x7c ../lib/riscv_counters.o
+ .debug_abbrev  0x00000000000002c1      0x13e ../lib/ns16550.o
+ .debug_abbrev  0x00000000000003ff       0x84 /tmp/ccf8x3tv.o
+ .debug_abbrev  0x0000000000000483      0x17d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x0000000000000600      0x19a /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_abbrev  0x000000000000079a       0x5d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .debug_abbrev  0x00000000000007f7       0xa8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x000000000000089f       0xbb /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .debug_abbrev  0x000000000000095a       0xb8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000a12      0x215 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .debug_abbrev  0x0000000000000c27      0x22f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000000e56       0xc2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000f18      0x3ae /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x00000000000012c6      0x1f6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00000000000014bc      0x20d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000000016c9      0x29c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x0000000000001965      0x27e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000001be3      0x355 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001f38      0x262 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x000000000000219a      0x217 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x00000000000023b1      0x1c0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000002571      0x17e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000026ef      0x2af /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x000000000000299e      0x1ed /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x0000000000002b8b      0x29b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000002e26       0xa9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000002ecf       0xf1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000002fc0       0xa9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000003069      0x1aa /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000003213      0x3a2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x00000000000035b5      0x238 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00000000000037ed       0xc6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .debug_abbrev  0x00000000000038b3      0x236 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000003ae9      0x389 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_abbrev  0x0000000000003e72      0x207 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x0000000000004079      0x291 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x000000000000430a      0x2a8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_abbrev  0x00000000000045b2      0x240 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x00000000000047f2      0x21f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x0000000000004a11      0x20e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x0000000000004c1f      0x368 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_abbrev  0x0000000000004f87       0xb1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000005038      0x372 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+
+.debug_aranges  0x0000000000000000      0x590
+ .debug_aranges
+                0x0000000000000000       0x20 ../lib/syscalls.o
+ .debug_aranges
+                0x0000000000000020       0x20 ../lib/htif.o
+ .debug_aranges
+                0x0000000000000040       0x20 ../lib/riscv_counters.o
+ .debug_aranges
+                0x0000000000000060       0x20 ../lib/ns16550.o
+ .debug_aranges
+                0x0000000000000080       0x20 /tmp/ccf8x3tv.o
+ .debug_aranges
+                0x00000000000000a0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .debug_aranges
+                0x00000000000000f8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000118       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000158       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000178       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x0000000000000198       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000218       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000278       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000298       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000002d8       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000002f0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x0000000000000310       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000330       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000350       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000370       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000390       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000000000003b0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000003d0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x00000000000003f0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x0000000000000410       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .debug_aranges
+                0x0000000000000430       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000450       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_aranges
+                0x0000000000000470       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x0000000000000490       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x00000000000004f0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x0000000000000510       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x0000000000000530       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_aranges
+                0x0000000000000550       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000570       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+
+.debug_line     0x0000000000000000    0x11021
+ .debug_line    0x0000000000000000      0x441 ../lib/syscalls.o
+ .debug_line    0x0000000000000441       0xff ../lib/htif.o
+ .debug_line    0x0000000000000540      0x169 ../lib/riscv_counters.o
+ .debug_line    0x00000000000006a9      0x21d ../lib/ns16550.o
+ .debug_line    0x00000000000008c6       0xd1 /tmp/ccf8x3tv.o
+ .debug_line    0x0000000000000997      0x371 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000d08      0x39b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_line    0x00000000000010a3       0xa9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+ .debug_line    0x000000000000114c      0x143 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .debug_line    0x000000000000128f      0x165 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .debug_line    0x00000000000013f4      0x1c5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .debug_line    0x00000000000015b9      0x38c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .debug_line    0x0000000000001945      0x3f1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .debug_line    0x0000000000001d36      0x398 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_line    0x00000000000020ce     0x1c2e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_line    0x0000000000003cfc      0x49d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_line    0x0000000000004199      0x404 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .debug_line    0x000000000000459d     0x17e5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .debug_line    0x0000000000005d82      0x696 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_line    0x0000000000006418      0x7bd /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_line    0x0000000000006bd5      0x6a3 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000007278      0x80e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000007a86      0x42b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000007eb1      0x265 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000008116      0x3f3 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_line    0x0000000000008509      0x4d7 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .debug_line    0x00000000000089e0      0xa91 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000009471      0x277 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .debug_line    0x00000000000096e8      0x3ac /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000009a94      0x298 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000009d2c      0x26d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+ .debug_line    0x0000000000009f99     0x1554 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_line    0x000000000000b4ed      0x7a5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_line    0x000000000000bc92      0x293 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .debug_line    0x000000000000bf25      0x4ae /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .debug_line    0x000000000000c3d3     0x13b5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_line    0x000000000000d788      0x320 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_line    0x000000000000daa8      0x401 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_line    0x000000000000dea9      0x4ac /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_line    0x000000000000e355      0x490 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_line    0x000000000000e7e5      0x3d3 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x000000000000ebb8      0x39e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x000000000000ef56     0x1026 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_line    0x000000000000ff7c      0x1a7 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_line    0x0000000000010123      0xefe /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+
+.debug_str      0x0000000000000000     0x2a40
+ .debug_str     0x0000000000000000      0x2b0 ../lib/syscalls.o
+                                        0x35b (size before relaxing)
+ .debug_str     0x00000000000002b0       0x43 ../lib/htif.o
+                                         0xb9 (size before relaxing)
+ .debug_str     0x00000000000002f3       0x45 ../lib/riscv_counters.o
+                                        0x14d (size before relaxing)
+ .debug_str     0x0000000000000338      0x24e ../lib/ns16550.o
+                                        0x33d (size before relaxing)
+ .debug_str     0x0000000000000586       0x44 /tmp/ccf8x3tv.o
+                                        0x10b (size before relaxing)
+ .debug_str     0x00000000000005ca      0x245 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+                                        0x2de (size before relaxing)
+ .debug_str     0x000000000000080f        0x9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+                                        0x2de (size before relaxing)
+ .debug_str     0x0000000000000818       0x70 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clz.o)
+                                        0x226 (size before relaxing)
+ .debug_str     0x0000000000000888      0x106 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+                                        0x1ab (size before relaxing)
+ .debug_str     0x000000000000098e       0xb4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+                                        0x1a5 (size before relaxing)
+ .debug_str     0x0000000000000a42       0xd8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+                                        0x1cf (size before relaxing)
+ .debug_str     0x0000000000000b1a      0x421 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+                                        0x570 (size before relaxing)
+ .debug_str     0x0000000000000f3b       0xd6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+                                        0x598 (size before relaxing)
+ .debug_str     0x0000000000001011       0xa7 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+                                        0x1a9 (size before relaxing)
+ .debug_str     0x00000000000010b8      0x25f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+                                        0x7bb (size before relaxing)
+ .debug_str     0x0000000000001317       0x90 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+                                        0x568 (size before relaxing)
+ .debug_str     0x00000000000013a7       0x91 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+                                        0x589 (size before relaxing)
+ .debug_str     0x0000000000001438      0x19f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+                                        0x687 (size before relaxing)
+ .debug_str     0x00000000000015d7       0xab /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+                                        0x5a9 (size before relaxing)
+ .debug_str     0x0000000000001682      0x165 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+                                        0x65f (size before relaxing)
+ .debug_str     0x00000000000017e7      0x1b2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+                                        0x694 (size before relaxing)
+ .debug_str     0x0000000000001999       0xad /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+                                        0x5db (size before relaxing)
+ .debug_str     0x0000000000001a46       0x89 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+                                        0x54e (size before relaxing)
+ .debug_str     0x0000000000001acf       0x87 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-impure.o)
+                                        0x549 (size before relaxing)
+ .debug_str     0x0000000000001b56      0x250 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+                                        0x7a5 (size before relaxing)
+ .debug_str     0x0000000000001da6       0x87 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+                                        0x657 (size before relaxing)
+ .debug_str     0x0000000000001e2d       0xe5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+                                        0x74a (size before relaxing)
+ .debug_str     0x0000000000001f12       0x8a /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+                                        0x188 (size before relaxing)
+ .debug_str     0x0000000000001f9c       0x8e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+                                        0x196 (size before relaxing)
+ .debug_str     0x000000000000202a       0x9e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+                                        0x1a1 (size before relaxing)
+ .debug_str     0x00000000000020c8       0x90 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mlock.o)
+                                        0x543 (size before relaxing)
+ .debug_str     0x0000000000002158       0xe6 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+                                        0x641 (size before relaxing)
+ .debug_str     0x000000000000223e       0x4e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+                                        0x629 (size before relaxing)
+ .debug_str     0x000000000000228c       0x9e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+                                        0x1b4 (size before relaxing)
+ .debug_str     0x000000000000232a       0xae /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+                                        0x588 (size before relaxing)
+ .debug_str     0x00000000000023d8       0x29 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+                                        0x70f (size before relaxing)
+ .debug_str     0x0000000000002401        0xf /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+                                        0x581 (size before relaxing)
+ .debug_str     0x0000000000002410       0x8c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+                                        0x596 (size before relaxing)
+ .debug_str     0x000000000000249c       0x99 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+                                        0x59a (size before relaxing)
+ .debug_str     0x0000000000002535       0x81 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+                                        0x56d (size before relaxing)
+ .debug_str     0x00000000000025b6       0x95 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+                                        0x57f (size before relaxing)
+ .debug_str     0x000000000000264b       0x9e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+                                        0x588 (size before relaxing)
+ .debug_str     0x00000000000026e9      0x286 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+                                        0x454 (size before relaxing)
+ .debug_str     0x000000000000296f      0x243 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_str     0x000000000000296f       0xd1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+                                        0x42c (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x118a3
+ .debug_loc     0x0000000000000000      0xe0f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_loc     0x0000000000000e0f      0x9f9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_loc     0x0000000000001808       0x2c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000001834       0x3e /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fini.o)
+ .debug_loc     0x0000000000001872       0x84 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-init.o)
+ .debug_loc     0x00000000000018f6       0x8c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-printf.o)
+ .debug_loc     0x0000000000001982       0xd8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-puts.o)
+ .debug_loc     0x0000000000001a5a      0x1c9 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000001c23     0x285c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_loc     0x000000000000447f       0x8c /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x000000000000450b      0x124 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x000000000000462f     0x25a4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x0000000000006bd3      0x343 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000006f16      0x27f /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000007195      0x49b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-freer.o)
+ .debug_loc     0x0000000000007630      0x5a3 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000007bd3      0x1f5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x0000000000007dc8       0xf2 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_loc     0x0000000000007eba      0x128 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x0000000000007fe2      0xaba /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000008a9c      0x1b5 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memchr.o)
+ .debug_loc     0x0000000000008c51      0x354 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000000000008fa5      0x2ed /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000009292     0x1e8b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_loc     0x000000000000b11d      0xdd3 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x000000000000bef0       0x70 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-s_fpclassify.o)
+ .debug_loc     0x000000000000bf60      0x357 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-stdio.o)
+ .debug_loc     0x000000000000c2b7     0x227d /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_loc     0x000000000000e534      0x1c1 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_loc     0x000000000000e6f5      0x165 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_loc     0x000000000000e85a      0x296 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_loc     0x000000000000eaf0      0x17b /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x000000000000ec6b      0x238 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x000000000000eea3      0x103 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x000000000000efa6     0x1761 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_loc     0x0000000000010707       0xc4 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000000000107cb     0x10d8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)
+
+.debug_ranges   0x0000000000000000      0xb50
+ .debug_ranges  0x0000000000000000      0x158 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000000000000158      0x140 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_moddi3.o)
+ .debug_ranges  0x0000000000000298       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000002b0      0x140 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x00000000000003f0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000410       0x38 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000448       0x68 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x00000000000004b0       0x20 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x00000000000004d0       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-locale.o)
+ .debug_ranges  0x00000000000004e8       0x28 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000510       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x0000000000000528       0x90 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x00000000000005b8      0x120 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x00000000000006d8      0x1c0 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-vfiprintf.o)
+ .debug_ranges  0x0000000000000898       0x40 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-callocr.o)
+ .debug_ranges  0x00000000000008d8       0x30 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x0000000000000908       0x30 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-fputwc.o)
+ .debug_ranges  0x0000000000000938       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/../../../../riscv64-unknown-elf/lib/soft-float/32/libc.a(lib_a-wbuf.o)
+ .debug_ranges  0x0000000000000950      0x110 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(dp-bit.o)
+ .debug_ranges  0x0000000000000a60       0x18 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x0000000000000a78       0xd8 /home/nikhil/Projects/RISCV/toolchain/riscv-im/bin/../lib/gcc/riscv64-unknown-elf/5.2.0/soft-float/32/libgcc.a(fp-bit.o)

@@ -1,0 +1,304 @@
+make  do_test_CPI_test1 
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/asm_tests_RV32IM/CPI_test1/CPI_test1   ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/asm_tests_RV32IM/CPI_test1/CPI_test1
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 24c
+Sim_Driver: loading memory
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 2053
+Sim_Driver: running CPU
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.0 = (8306/8193)
+            cycles - instrs 113
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_hello
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/hello/hello             ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/hello/hello
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 15140
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 253934
+Sim_Driver: running CPU
+Hello World!
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 4.3 = (6909/1593)
+            cycles - instrs 5316
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_median
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/median/median_main      ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/median/median_main
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 16080
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 265402
+Sim_Driver: running CPU
+Verify = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.4 = (37842/25890)
+            cycles - instrs 11952
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_multiply
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/multiply/multiply_main  ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/multiply/multiply_main
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 157e0
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 258916
+Sim_Driver: running CPU
+Verify = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.3 = (75217/57525)
+            cycles - instrs 17692
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_print
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/print/print             ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/print/print
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 1dec0
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010140
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 360342
+Sim_Driver: running CPU
+1: c
+2: Hello world!
+
+
+3: d
+4: Hello world!
+
+
+5: 25
+6: Done
+7: 1234
+
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 2.5 = (22150/8815)
+            cycles - instrs 13335
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_qsort
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/qsort/qsort_main        ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/qsort/qsort_main
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 16150
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 266016
+Sim_Driver: running CPU
+Verify = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.2 = (77073/62503)
+            cycles - instrs 14570
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_towers
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/towers/towers_main      ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/towers/towers_main
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 158c0
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 259574
+Sim_Driver: running CPU
+Verify = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.7 = (31717/17807)
+            cycles - instrs 13910
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_vvadd
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/vvadd/vvadd_main        ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/vvadd/vvadd_main
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 160f0
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010150
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 265734
+Sim_Driver: running CPU
+Verify = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.7 = (23558/13308)
+            cycles - instrs 10250
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_intOpsTest
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/intOpsTest/intOpsTest   ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/intOpsTest/intOpsTest
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 48060
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010140
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 866908
+Sim_Driver: running CPU
+Verify: all 3528 32-bit tests ok
+Verify: all 3528 64-bit tests ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.4 = (1177198/787016)
+            cycles - instrs 390182
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+make  do_test_filters
+make[1]: Entering directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'
+env SIM_ELF_FILENAME=../RISCV_programs/C_tests_RV32IM/filters/filters         ./top_Sim_Standalone_exe_v
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+INFO: c_mem_init (base 0x0, size 0x200000)
+Sim_Driver: reading ELF file into tandem verifier
+INFO: c_mem_load_elf2: loading ELF file:
+    ../RISCV_programs/C_tests_RV32IM/filters/filters
+5: SoC_Top: resetting all sub-modules
+================================================================
+CPU: Bluespec  RISC-V  Piccolo  v1.0
+Copyright (c) 2016 Bluespec, Inc. All Rights Reserved.
+================================================================
+Sim_Driver: min_addr 0, max_addr 1ed50
+Sim_Driver: loading memory
+Sim_Driver: breakpoint set at PC 0x00010140
+Sim_Driver: loaded memory
+Sim_Driver: start instret: 0
+Sim_Driver: start cycle: 371296
+Sim_Driver: running CPU
+called sharpen
+exiting sharpen
+called sharpen
+exiting sharpen
+called sharpen
+exiting sharpen
+called sharpen
+exiting sharpen
+called sharpen
+exiting sharpen
+called sharpen
+exiting sharpen
+Verify resr = ok
+Verify resg = ok
+Verify resb = ok
+Sim_Driver: CPU stopped with reason: 5
+Sim_Driver: CPI: 1.2 = (1708019/1418658)
+            cycles - instrs 289361
+Sim_Driver: shutting down
+make[1]: Leaving directory '/home/nikhil/GitHub/RISCV_Piccolo_v1/Verilogsim'

@@ -1,0 +1,30 @@
+
+CPI_test1:     file format elf32-littleriscv
+
+
+Disassembly of section .text:
+
+00000000 <_start-0x200>:
+	...
+
+00000200 <_start>:
+ 200:	20000413          	li	s0,512
+ 204:	fff40413          	addi	s0,s0,-1
+ 208:	00000013          	nop
+ 20c:	00000013          	nop
+ 210:	00000013          	nop
+ 214:	00000013          	nop
+ 218:	00000013          	nop
+ 21c:	00000013          	nop
+ 220:	00000013          	nop
+ 224:	00000013          	nop
+ 228:	00000013          	nop
+ 22c:	00000013          	nop
+ 230:	00000013          	nop
+ 234:	00000013          	nop
+ 238:	00000013          	nop
+ 23c:	00000013          	nop
+ 240:	fc0412e3          	bnez	s0,204 <_start+0x4>
+
+00000244 <halt>:
+ 244:	00100073          	ebreak
