@@ -18,12 +18,24 @@ an implementation of the RISC-V Instruction Set Architecture (ISA).
 
 * No memory management, no floating point.
 
-This repository contains two variants of a simulator (Bluesim and
-Verilog sim) for a Piccolo system and some pre-compiled RISC-V ELF
-binaries for C and RISC-V assembly language programs.  You can run the
-simulators, i.e., you will be simulating the Piccolo RISC-V CPU (with
-caches, an interconnecct, a memory system, and a UART model) executing
-one of the ELF files.
+This repository contains all the Verilog source files for the Piccolo
+CPU, as well as surrounding modules that enable system-level execution
+(Top_Sim_Standalone, SoC_Top, Sim_Driver, ICache, DCache, Fabric,
+Mem_Controller, Mem_Model, UART).
+
+In addition, this repository contains two pre-built simulation
+executables that you can run immediately (on 64-bit Linux platforms)
+built from the same source code.  One uses Bluespec's Bluesim
+simulator, and the other uses CVC's Verilog Open Source Simulator.
+
+Finally, this repository contains some pre-compiled RISC-V ELF
+binaries for C and RISC-V assembly language programs, compiled using
+the RISC-V gcc toolchain.
+
+You can run the simulators on these ELF files, i.e., you will be
+simulating a CPU-Caches-Fabric-Memory-UART "SoC" system, where the CPU
+is the Piccolo RISC-V CPU, and it is executing one of the ELF
+binaries.
 
 If you have the RISC-V gcc toolchain (from `riscv.org`) you should be
 able to compile other programs into ELF executables and run them on
@@ -32,8 +44,8 @@ directories provide examples of how to invoke the simulator on an
 executable.
 
 NOTE: these simulators have been compiled to run on 64-bit x86 Linux
-platforms only (Ubuntu, Debian).  We do not have versions for other
-platforms.
+platforms only (such as Ubuntu and Debian).  We have no plans to
+produce versions for other platforms (e.g., Windows, Mac OS).
 
 ----------------------------------------------------------------
 
@@ -47,6 +59,8 @@ platforms.
   the directory has more details on how to run a RISC-V simulation on
   an ELF file and how to get more verbose traces.
 
+  For example, `$ make do_test_hello` runs the "Hello World!" program.
+
 * `Verilogsim/`
 
   Contains a pre-built Linux executable using CVC's Verilog simulator.
@@ -54,6 +68,8 @@ platforms.
   any of the pre-compiled ELF files in `Programs/` directory.  The
   `README` in the directory has more details on how to run a RISC-V
   simulation on an ELF file and how to get more verbose traces.
+
+  For example, `$ make do_test_hello` runs the "Hello World!" program.
 
   * `verilog/`
 
@@ -75,15 +91,6 @@ platforms.
 
 ----------------------------------------------------------------
 ## Running the Bluesim simulator on RISV-V ELF files
-
-**Prerequisite:** Running the Bluesim simulation does not require any
-license, but since it uses Bluespec libraries, you will need to
-download and untar the Bluespec distribution from
-[here](http://www.bluespec.com/downloads/Bluespec-2016.03.beta1.tar.gz).
-Then, set the environment variable BLUESPECDIR to point at
-_wherever-you-untarred_`/Bluespec-2016.03.beta1/lib`
-
-	Example: `$ export BLUESPECDIR=$(HOME)/Bluespec-2016.03.beta1/lib`
 
 You should be in the Bluesim directory: `$ cd Bluesim`
 
@@ -128,7 +135,7 @@ The simulations include the Piccolo CPU itself, caches, an
 interconnect fabric, a memory controller, a memory model, a UART
 model, a system controller to load ELF files, etc.
 
-If you wish to synthesis the CPU by itself, and connect it to your own
+If you wish to synthesize the CPU by itself, and connect it to your own
 caches/memory, the verilog module `mkCPU.v` is the top-level module.
 
 ----------------------------------------------------------------
@@ -146,6 +153,12 @@ Both simulation models (Bluesim and Verilog sim) simulate the actual
 synthesizable code, fully cycle-accurate (you can generate VCDs from
 either simulation).  Bluesim simulation is about 20x faster than
 Verilog simulation.
+
+Piccolo demonstrates an ideal CPI (Cycles per Instruction) of exactly
+1.0 for all codes that do not include integer divides or I/O (which
+take multiple cycles), when the caches here are replaced by TCMs
+(Tightly Coupled Memories, not included here), where reads always
+return a result in 1 cycle.
 
 For Verilog simulation, we only test with the CVC Open Source Verilog
 simulator.  If you need help building for other Verilog simulators,
