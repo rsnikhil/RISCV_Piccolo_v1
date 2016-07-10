@@ -9,8 +9,10 @@ IMPORTED_C_FILES = C_ConsoleIO_functions.c C_GetEnv_functions.c C_mem_model.c
 
 .PHONY: top
 top:
-	verilator -I$(VERILOG_SRC_DIR) -cc  $(TOP).v  --exe  sim_main.cpp  $(IMPORTED_C_FILES)
+	verilator -CFLAGS -D_GLIBCXX_USE_CXX11_ABI=0 -I$(VERILOG_SRC_DIR) -cc  $(TOP).v  --exe  sim_main.cpp  $(IMPORTED_C_FILES)
 
+CXXFLAGS = -D_GLIBCXX_USE_CXX11_ABI=0
+export CFLAGS
 LDLIBS = -lelf
 export LDLIBS
 
