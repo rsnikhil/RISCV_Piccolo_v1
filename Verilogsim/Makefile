@@ -7,7 +7,7 @@
 ASM_TESTS = ../RISCV_programs/asm_tests_RV32IM
 C_TESTS   = ../RISCV_programs/C_tests_RV32IM
 
-SIM_EXEFILE = top_Sim_Standalone_exe_v
+SIM_EXEFILE = VmkTop_Sim_Standalone
 
 # ================================================================
 # Run all tests

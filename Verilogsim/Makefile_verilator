@@ -1,0 +1,32 @@
+# Makefile to create a simulation executable from Verilog files, using Verilator
+
+VERILOG_SRC_DIR = verilog
+TOP = mkTop_Sim_Standalone
+
+default: top link
+
+IMPORTED_C_FILES = C_ConsoleIO_functions.c C_GetEnv_functions.c C_mem_model.c
+
+.PHONY: top
+top:
+	verilator -I$(VERILOG_SRC_DIR) -cc  $(TOP).v  --exe  sim_main.cpp  $(IMPORTED_C_FILES)
+
+LDLIBS = -lelf
+export LDLIBS
+
+.PHONY: link
+link:
+	cd obj_dir; \
+	ln -s -f ../Cpp_src/sim_main.cpp; \
+	ln -s -f ../Cpp_src/C_ConsoleIO_functions.c; \
+	ln -s -f ../Cpp_src/C_ConsoleIO_functions.h; \
+	ln -s -f ../Cpp_src/C_GetEnv_functions.c; \
+	ln -s -f ../Cpp_src/C_GetEnv_functions.h; \
+	ln -s -f ../Cpp_src/C_mem_model.c; \
+	ln -s -f ../Cpp_src/C_mem_model.h; \
+	make -j -f V$(TOP).mk  V$(TOP); \
+	cp -p  V$(TOP) ..
+
+.PHONY: full_clean
+full_clean:
+	rm -r -f obj_dir

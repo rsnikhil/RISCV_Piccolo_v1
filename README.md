@@ -19,14 +19,15 @@ an implementation of the RISC-V Instruction Set Architecture (ISA).
 * No memory management, no floating point.
 
 This repository contains all the Verilog source files for the Piccolo
-CPU, as well as surrounding modules that enable system-level execution
-(Top_Sim_Standalone, SoC_Top, Sim_Driver, ICache, DCache, Fabric,
-Mem_Controller, Mem_Model, UART).
+CPU, as well as for surrounding modules that enable system-level
+execution (`Top_Sim_Standalone`, `SoC_Top`, `Sim_Driver`, `ICache`, `DCache`,
+`Fabric`, `Mem_Controller`, `Mem_Model`, `UART`).
 
 In addition, this repository contains two pre-built simulation
 executables that you can run immediately (on 64-bit Linux platforms)
 built from the same source code.  One uses Bluespec's Bluesim
-simulator, and the other uses CVC's Verilog Open Source Simulator.
+simulator, and the other uses the Verilator open source Verilog
+simulator.
 
 Finally, this repository contains some pre-compiled RISC-V ELF
 binaries for C and RISC-V assembly language programs, compiled using
@@ -44,7 +45,7 @@ directories provide examples of how to invoke the simulator on an
 executable.
 
 NOTE: these simulators have been compiled to run on 64-bit x86 Linux
-platforms only (such as Ubuntu and Debian).  We have no plans to
+platforms only (such as Ubuntu and Debian).  We have no plan to
 produce versions for other platforms (e.g., Windows, Mac OS).
 
 ----------------------------------------------------------------
@@ -55,28 +56,35 @@ produce versions for other platforms (e.g., Windows, Mac OS).
 
   Contains a pre-built Linux executable using Bluespec, Inc.'s Bluesim
   simulator.  The Makefile allows running the simulator on any of the
-  pre-compiled ELF files in `Programs/` directory.  The `README` in
-  the directory has more details on how to run a RISC-V simulation on
-  an ELF file and how to get more verbose traces.
+  pre-compiled ELF files in `Programs/` directory.
 
   For example, `$ make do_test_hello` runs the "Hello World!" program.
 
 * `Verilogsim/`
 
-  Contains a pre-built Linux executable using CVC's Verilog simulator.
-  The Makefile allows running the simulator on
-  any of the pre-compiled ELF files in `Programs/` directory.  The
-  `README` in the directory has more details on how to run a RISC-V
-  simulation on an ELF file and how to get more verbose traces.
+  Contains a pre-built Linux executable that is a Verilog simulator
+  built using Verilator.  The Makefile allows running the simulator on
+  any of the pre-compiled ELF files in `Programs/` directory.
 
   For example, `$ make do_test_hello` runs the "Hello World!" program.
 
   * `verilog/`
 
-     Verilog RTL from which Verilogsim was built.  This Verilog is not
-     hand-written, but generated from Bluespec BSV sources (not
-     included) by Bluespec's bsc compiler.  It's moderately readable
-     (YMMV).
+     Verilog RTL from which the Verilog simulation executable was
+     built.  This Verilog RTL is not hand-written, but generated from
+     Bluespec BSV sources (not included) by Bluespec's bsc compiler.
+     It's moderately readable (YMMV).
+
+  * `Cpp_src/`
+
+     Contains the Verilator top-level driver `sim_main.cpp` and a few
+     other C++ files that are imported by the Verilog code.
+
+  * Makefile_verilator
+
+     Makefile to rebuild the Verilog simulation executable using
+     Verilator (see below).  This will allow you to tell Verilator to
+     incorporate VCD dumping, profiling, etc.
 
 * `RISCV_Programs/`
 
@@ -103,7 +111,7 @@ will produce increasingly detailed simulation traces indicating
 activity on a clock-by-clock basis in the CPU pipeline, caches,
 interconnect fabric and memory controller.
 
-The `make` commands invoke the Bluesim executable: `$ top_Sim_Standalone_exe`
+Note: The `make` commands invoke the Bluesim executable: `$ top_Sim_Standalone_exe`
 
 If you provide the flag `-V` it will dump VCDs waveforms to the file `dump.vcd`.
 
@@ -123,9 +131,10 @@ will produce increasingly detailed simulation traces indicating
 activity on a clock-by-clock basis in the CPU pipeline, caches,
 interconnect fabric and memory controller.
 
-The `make` commands invoke the CVC Verilog simulation executable: `$ top_Sim_Standalone_exe_v`
+Note: the `make` commands invoke the Verilog simulation executable: `$ VmkTop_Sim_Standalone`
 
-If you provide the flag `+bscvcd` it will dump VCDs waveforms to the file `dump.vcd`.
+If you want to generate VCD waveforms from the simulation, you'll have
+to rebuild using Verilator with that facility turned on (see below).
 
 ----------------------------------------------------------------
 
@@ -142,17 +151,18 @@ caches/memory, the verilog module `mkCPU.v` is the top-level module.
 
 ## Notes
 
-Although only simulators are provided here, this is not just a
-simulation model, but a fully synthesizable implementation.  On Xilinx
-Virtex-7 FPGAs, the CPU by itself takes from 1.5K to 2.5K LUTs, from
-580 to 750 flipflops, and from 0 to 9 DSPs, at over a 100 MHz,
+Although this package only contains simulators, the Verilog is not
+just a simulation model, but a fully synthesizable implementation.  On
+Xilinx Virtex-7 FPGAs, the CPU by itself takes from 1.5K to 2.5K LUTs,
+from 580 to 750 flipflops, and from 0 to 9 DSPs, at over a 100 MHz,
 depending on which features are included/excluded (e.g. RV32 'M'
 instructions for integer multiply/ divide/ remainder).
 
 Both simulation models (Bluesim and Verilog sim) simulate the actual
-synthesizable code, fully cycle-accurate (you can generate VCDs from
-either simulation).  Bluesim simulation is about 20x faster than
-Verilog simulation.
+synthesizable code, with full cycle-accuracy (you can generate VCDs
+from either simulation).  Bluesim simulation is about 3x-4x faster
+than Verilator-based Verilog simulation.  Bluesim can be 20x or more
+faster than some other Verilog simulators.
 
 Piccolo demonstrates an ideal CPI (Cycles per Instruction) of exactly
 1.0 for all codes that do not include integer divides or I/O (which
@@ -160,15 +170,26 @@ take multiple cycles), when the caches here are replaced by TCMs
 (Tightly Coupled Memories, not included here), where reads always
 return a result in 1 cycle.
 
-For Verilog simulation, we only test with the CVC Open Source Verilog
-simulator.  If you need help building for other Verilog simulators,
-please contact Bluespec, Inc. support.
+For Verilog simulation, we only test with the Open Source Verilator
+and CVC Verilog simulators.  You can load the Verilog files into other
+Verilog simulators; the top-level file is `mkTop_Sim_Standalone.v`,
+whose only input is `CLK` and `RST_N` (reset, active low).  The file
+`verilog/mkSimDriver.v` invokes some import "DPI-C" calls (see
+`verilog/import_DPI_C_decls.vh`) in standard SystemVerilog syntax;
+hopefully these are supported by your Verilog simulator.  If you need
+help building for other Verilog simulators, please contact Bluespec,
+Inc. support.
 
-If you have CVC you should be able to rebuild what's in Verilogsim.
-Or, you may be able to load these into some other Verilog simulator
-(Caution: contains VPI for importing some C routines, and
-unfortunately VPI details may vary somewhat across Verilog
-simulators).
+To rebuild the Verilator-based Verilog simulation executable, you will
+need to download and install the Verilator system.  Then,
+
+`$ cd Verilogsim`
+
+`$ make -f Makefile_verilator`
+
+will rebuild the Verilator-based Verilog simulation executable. You
+can add flags to the verilator invocations, and/or modify
+`sim_main.cpp`, to switch Verilator facilities, such as VCD dumping
 
 If you are interested in the Bluespec BSV source codes, or variants
 that include Supervisor privilege level, Virtual Memory management and
@@ -188,10 +209,10 @@ Bluespec, Inc. support.
 
 ## References
 
-Bluespec support: `support@bluespec.com`
+Bluespec support: email `support@bluespec.com`
 
 Bluespec, Inc. web site [www.bluespec.com](http://www.bluespec.com).
 
 RISC-V Foundation web site [www.riscv.org](https://riscv.org)
 
-CVC Open Source Verilog simulator: [http://www.tachyon-da.com](http://www.tachyon-da.com)
+Verilator: [http://www.veripool.org/wiki/verilator](http://www.veripool.org/wiki/verilator)
